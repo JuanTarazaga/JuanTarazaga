@@ -1,4 +1,4 @@
-### HI IM JUAN TARAZAGA
+<h2 align="center">Hey there! I'm Juan Tarazaga Perez de Sevilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 
 
