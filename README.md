@@ -1,6 +1,8 @@
 <h2 align="center">Hey there! I'm Juan Tarazaga Perez de Sevilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-
+<div align="center">
+  <img src="">
+</div>
 
 ### About me🧑:
 Passionate about technology with a background in both app development and business. I bring solid experience in buying and selling cars and electronic products, where my communication skills, customer-focused approach, and results-driven mindset have been key to success. I am adept at problem-solving and thrive on delivering results with speed and accuracy.
