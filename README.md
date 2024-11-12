@@ -30,3 +30,13 @@ Languages and Tools🛠:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"></code>
 </details>
+
+## 🙋‍♂️ Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/juan-tarazaga-035160293/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/JuanTarazaga/Perfil"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+
+
