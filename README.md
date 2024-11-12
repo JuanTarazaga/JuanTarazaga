@@ -10,7 +10,6 @@ In addition to my professional experience, I have volunteered in Burundi, Africa
 
 ---
 
-<details>
 <summary>
 Languages and Tools🛠:
 </summary>
@@ -29,7 +28,7 @@ Languages and Tools🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"></code>
-</details>
+
 
 ## 🙋‍♂️ Connect with me:
 
@@ -37,6 +36,13 @@ Languages and Tools🛠:
   <a href="https://www.linkedin.com/in/juan-tarazaga-035160293/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/JuanTarazaga/Perfil"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/JuanTarazaga/github-readme-stats"><img alt="Juan Tarazaga Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+
 
 
 
