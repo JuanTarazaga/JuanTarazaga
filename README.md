@@ -1,3 +1,7 @@
+### HI IM JUAN TARAZAGA
+
+
+
 ### About me🧑:
 Passionate about technology with a background in both app development and business. I bring solid experience in buying and selling cars and electronic products, where my communication skills, customer-focused approach, and results-driven mindset have been key to success. I am adept at problem-solving and thrive on delivering results with speed and accuracy.
 
