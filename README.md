@@ -48,6 +48,7 @@ Languages and Tools🛠:
    <a href="https://github.com/JuanTarazaga/github-readme-stats">
   <img alt="Juan Tarazaga Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTarazaga&langs_count=10&layout=compact" 
 
+</a>
 
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 
