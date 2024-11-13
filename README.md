@@ -46,8 +46,8 @@ Languages and Tools🛠:
 <summary>💻 Most used languages</summary>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<a href="https://github.com/JuanTarazaga">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTarazaga&langs_count=8&layout=compact" alt="JuanTarazaga">
 	</a>
 	<br/>
 <br/>
