@@ -52,7 +52,7 @@ Languages and Tools🛠:
 <br/>
 <br/>
 
-![](https://github-readme-streak-stats.JuanTarazaga.com/?user=JuanTarazaga&theme=dark&hide_border=false)<br/>
+[![Top Language](https://readme-stats.JuanTarazaga.com/api/top-langs?username=JuanTarazaga&layout=compact)](https://github.com/JuanTarazaga/github-readme-stats)
 
 
 <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
