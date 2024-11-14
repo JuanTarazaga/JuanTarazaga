@@ -44,14 +44,16 @@ Languages and Tools🛠:
 </p>
 
 <summary>💻 Most used languages</summary>
+<!--
 <br/>
 <br/>
 <a href="https://github.com/JuanTarazaga">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTarazaga&langs_count=8&layout=compact" alt="JuanTarazaga">
 </a>
 <br/>
-<br/>
-<!-- Github仓库内编程语言使用情况统计 -->
+<br/> -->
+
+<!-- Github -->
 <td>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
         <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuanTarazaga&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="JuanTarazaga's Language stats" />
