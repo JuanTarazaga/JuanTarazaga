@@ -56,6 +56,14 @@ Languages and Tools🛠:
 
 <!-- Github -->
 
+<td>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuanTarazaga&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="JuanTarazaga's Language stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuanTarazaga&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="JuanTarazaga's Language stats" />
+    </a>
+</td>
 
 
 <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
