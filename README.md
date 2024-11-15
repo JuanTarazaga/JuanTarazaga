@@ -44,14 +44,14 @@ Languages and Tools🛠:
 </p>
 
 <summary>💻 Most used languages</summary>
-<!--
+
 <br/>
 <br/>
 <a href="https://github.com/JuanTarazaga">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTarazaga&langs_count=8&layout=compact" alt="JuanTarazaga">
 </a>
 <br/>
-<br/> -->
+<br/> 
 
 <!-- Github -->
 <td>
