@@ -43,7 +43,7 @@ Languages and Tools🛠:
   <a href="https://github.com/JuanTarazaga/Perfil"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<summary>💻 Most used languages</summary>
+<!-<summary>💻 Most used languages</summary>
 
 <!--
 <br/>
@@ -54,7 +54,7 @@ Languages and Tools🛠:
 <br/>
 <br/> 
 
-<!-- Github -->
+<!-- Github 
 
 <td>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -67,8 +67,7 @@ Languages and Tools🛠:
 
 
 <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-
-
+-->
 
 
 
