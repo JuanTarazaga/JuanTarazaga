@@ -43,9 +43,8 @@ Languages and Tools🛠:
   <a href="https://github.com/JuanTarazaga/Perfil"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<!-<summary>💻 Most used languages</summary>
+<!--<summary>💻 Most used languages</summary>
 
-<!--
 <br/>
 <br/>
 <a href="https://github.com/JuanTarazaga">
